@@ -19,7 +19,7 @@
 
 > **🔐 Something new in the MCP ecosystem** : An open-source runtime intelligence layer for Model Context Protocol. Focused on data flow visibility, sensitive data classification, and compliance evidence generation for AI agent workflows. Built for teams that need to prove what their agents are doing with data.
 
-> **🏗️ Orchestrator AI** : Deploying production AI systems across energy, insurance, and construction verticals. Computer vision, meeting intelligence, workflow automation, built on the Anthropic ecosystem and shipped to enterprise clients.
+> **🏗️ Orchestrator AI** : Deploying production AI systems across energy, insurance, and construction verticals. Computer vision, project intelligence, process automation, and system architecture design — built on the Anthropic and Gemini ecosystems, shipped to enterprise clients.
 
 > **👁️ Computer Vision R&D** — Working through Szeliski's *Computer Vision: Algorithms and Applications* while building production CV pipelines for industrial infrastructure inspection.
 
