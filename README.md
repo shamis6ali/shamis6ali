@@ -97,6 +97,7 @@
 <td>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zuul-5A5A5A?style=flat-square" />
   <img src="https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-5A5A5A?style=flat-square" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
@@ -111,7 +112,7 @@
 ### 📜 Background
 
 🏢 **CTO & Co-Founder — Orchestrator AI Systems** *(Current)*  
-Co-founded a commercial AI company deploying production systems to enterprise clients across energy, insurance, and construction. Built the full technical stack from scratch, CV pipelines, meeting intelligence, workflow automation, compliance infrastructure. Pursuing SOC 2 Type II certification and Anthropic enterprise partnership.
+Co-founded a commercial AI company deploying production systems to enterprise clients across energy, insurance, and construction. Built the full technical stack from scratch, CV pipelines, project intelligence, workflow automation, compliance infrastructure. Pursuing SOC 2 Type II certification and Anthropic enterprise partnership.
 
 ⌚ **Software Engineering Intern — Garmin** *(2023–2024)*  
 Built config-driven automated build systems for embedded C/C++ on Linux. Reduced regression testing time by 60%, memory overhead by 20%. Worked with Zuul, Ansible, Gerrit, Jenkins, JLink debuggers, and logic analyzers. Built a C# ASP.NET framework for hardware dev board testing that cut manual work by 50%.
